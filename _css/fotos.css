@@ -17,7 +17,7 @@ ul#album-fotos li{
     transition: 0.5s;
 }
 ul#album-fotos li:hover{
-    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
     
     
 }
