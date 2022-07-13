@@ -175,10 +175,10 @@ header#cabecalho-artigo h1{
     font-family: 'fontlog', sans-serif;
     font-size: 20pt;
     color:#606060;
-    margin-bottom: 0px
+    margin-bottom: 0px;
 }
 header#cabecalho-artigo h2{
-    font-size: 13pt
+    font-size: 13pt;
     color: #cecece;
     background-color: #ffffff;
     margin: 0px;
